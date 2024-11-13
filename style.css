@@ -10,21 +10,13 @@
     padding: 10px;
 }
 
-.text-center {
-    text-align: center;
-    margin-right: 60px;
-    padding: 10px;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
-    object-fit: cover;
-}
 
-.rounded{
+.rounded {
     border-radius: 50%;
     height: 100px;
     width: 100px;
     object-fit: cover;
+    margin-right: 60px;
 }
 
 /* Reset some basic styles */
