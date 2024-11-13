@@ -11,3 +11,77 @@
     padding: 10px;
 }
 
+/* Reset some basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+    /* Logo Styling */
+    .navbar .logo {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+    }
+
+/* Nav Links Styling */
+.nav-links {
+    list-style-type: none;
+    display: flex;
+}
+
+    .nav-links li {
+        margin-left: 20px;
+    }
+
+    .nav-links a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+        .nav-links a:hover {
+            color: #ff6347; /* Optional: Change color on hover */
+        }
+
+/* Mobile-Friendly Responsive Navbar */
+@media (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        display: none;
+    }
+
+    /* Show links on small screens when menu is active */
+    .navbar.active .nav-links {
+        display: flex;
+        position: absolute;
+        top: 60px;
+        background-color: #333;
+        width: 100%;
+    }
+}
+/* Hamburger Icon Styling */
+.menu-icon {
+    display: none;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+}
+
+
