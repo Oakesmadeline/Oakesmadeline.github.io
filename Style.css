@@ -3,8 +3,12 @@
     background-color: aliceblue;
 }
 
-.Header
-{
+.Name_Center{
+    text-align: center;
+    color: gray;
+    margin-right: 60px;
+}
+.Header {
     background-color: lightblue;
     color: mediumaquamarine;
     font-size: 20px;
