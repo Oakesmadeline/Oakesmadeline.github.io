@@ -109,12 +109,12 @@
 }
 
 
-.logo_WPF{
-text-align: center;
-margin-left: 50px;
-padding: 10px;
-width: 600px;
-height: 800px;
+.logo_WPF {
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    width: 600px;
+    height: 800px;
 }
 
 .Pics {
