@@ -73,7 +73,7 @@
     .navbar.active .nav-links {
         display: flex;
         position: absolute;
-        top: 60px;
+        top: 20px;
         background-color: #333;
         width: 100%;
     }
@@ -109,12 +109,12 @@
 }
 
 
-.logo{
+.logo_WPF{
 text-align: center;
 margin-left: 50px;
 padding: 10px;
-width: 300px;
-height: 400px;
+width: 600px;
+height: 800px;
 }
 
 .Pics {
@@ -123,6 +123,7 @@ height: 400px;
     padding: 10px;
     width: 100px;
     height: 100px;
+    display: block;
 }
 
 .Certs-Titles{
