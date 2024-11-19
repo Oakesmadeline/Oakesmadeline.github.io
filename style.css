@@ -104,7 +104,7 @@
 
 .headshot-center{
     text-align: center;
-    margin-left: 60px;
+    margin-left: 10px;
     display: inline-block;
     padding: 10px;
 }
@@ -114,8 +114,8 @@
     margin-left: 60px;
     display: inline-block;
     padding: 10px;
-    width:30px;
-    height:30px;
+    width:100px;
+    height:100px;
 }
 
 .PM-logo {
@@ -123,8 +123,8 @@
     margin-left: 60px;
     display: inline-block;
     padding: 10px;
-    width:30px;
-    height:30px;
+    width:100px;
+    height:100px;
 }
 
 
