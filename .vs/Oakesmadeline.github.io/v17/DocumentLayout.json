@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Skill_sets.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skill_sets.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madelinehudson\\Source\\Repos\\Oakesmadeline\\Oakesmadeline.github.io\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 173,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Projects.html",
+              "DocumentMoniker": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Projects.html",
+              "RelativeDocumentMoniker": "Projects.html",
+              "ToolTip": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Projects.html",
+              "RelativeToolTip": "Projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T15:55:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "About.html",
               "DocumentMoniker": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\About.html",
               "RelativeDocumentMoniker": "About.html",
               "ToolTip": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\About.html",
               "RelativeToolTip": "About.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T15:20:13.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Skill_sets.html",
-              "DocumentMoniker": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Skill_sets.html",
-              "RelativeDocumentMoniker": "Skill_sets.html",
-              "ToolTip": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\Skill_sets.html",
-              "RelativeToolTip": "Skill_sets.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T15:18:56.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\madelinehudson\\source\\repos\\Oakesmadeline\\Oakesmadeline.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAwAAACAMjMzM5MwwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAABgPSwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-13T10:46:37.592Z",
               "EditorCaption": ""
@@ -89,8 +89,7 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAFgAAAAA/////78vwGIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-13T11:49:19.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T11:49:19.902Z"
             }
           ]
         },

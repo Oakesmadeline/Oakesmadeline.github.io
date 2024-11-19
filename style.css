@@ -96,8 +96,16 @@
     }
 }
 
-.btn btn-primary{
-    margin-left: 10px;
+.Linkdin-img {
+    text-align: center;
+    margin-right: 60px;
+    padding: 10px;
+}
+
+.headshot-center{
+    text-align: center;
+    margin-right: 60px;
+    padding: 10px;
 }
 
 
