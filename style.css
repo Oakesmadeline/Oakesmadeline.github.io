@@ -98,32 +98,37 @@
 
 .Linkdin-img {
     text-align: center;
-    margin-right: 60px;
+    margin-left: 50px;
     padding: 10px;
 }
 
 .headshot-center{
     text-align: center;
-    margin-left: 10px;
+    margin-left: 50px;
     padding: 10px;
 }
 
 .scrum-logo {
     text-align: center;
-    margin-left: 60px;
+    margin-left: 100px;
     padding: 10px;
-    width:100px;
-    height:100px;
+    width: 150px;
+    height: 150px;
 }
 
 .PM-logo {
     text-align: center;
-    margin-left: 60px;
+    margin-left: 100px;
     padding: 10px;
-    width:100px;
-    height:100px;
+    width: 150px;
+    height: 150px;
 }
 
+.Certs-Titles{
+    text-align: center;
+    margin-left: 100px;
+    padding: 10px;
+}
 
 
 
