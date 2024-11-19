@@ -110,20 +110,34 @@
 
 .scrum-logo {
     text-align: center;
-    margin-left: 60px;
+    margin-left: 50px;
     padding: 10px;
-    width:100px;
-    height:100px;
+    width: 300px;
+    height: 300px;
 }
 
 .PM-logo {
     text-align: center;
-    margin-left: 60px;
+    margin-left: 50px;
     padding: 10px;
-    width:100px;
-    height:100px;
+    width: 300px;
+    height: 400px;
 }
 
+.Certs-Titles{
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.skill-sets{
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.About-Me{
+    margin-left: 50px;
+    padding: 10px;
+}
 
 
 
