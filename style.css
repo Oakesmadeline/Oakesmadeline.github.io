@@ -86,10 +86,19 @@
     cursor: pointer;
 }
 
+.navbar.active .menu-icon::before {
+    content: "\f00d";
+}
+
 @media (max-width: 768px) {
     .menu-icon {
         display: block;
     }
 }
+
+.btn btn-primary{
+    margin-left: 10px;
+}
+
 
 
