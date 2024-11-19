@@ -5,15 +5,18 @@
 
 .Name_Center{
     text-align: center;
-    color: gray;
+    color: lightslategray;
     margin-right: 60px;
-}
-.Header {
-    background-color: lightblue;
-    color: mediumaquamarine;
-    font-size: 20px;
-    font-weight: bold;
     padding: 10px;
+}
+
+
+.rounded {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    margin-right: 60px;
 }
 
 /* Reset some basic styles */
@@ -87,6 +90,13 @@
     .menu-icon {
         display: block;
     }
+}
+
+.btn btn-primary{
+    margin-left: 10px;
+}
+.navbar.active .menu-icon::before {
+    content: "\f00d";
 }
 
 
