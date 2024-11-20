@@ -11,11 +11,10 @@
 
 
 .rounded {
+    margin: 0 auto;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    width: 50%;
     object-fit: cover;
-    margin-left: 50px;
 }
 
 /* Reset some basic styles */
@@ -96,14 +95,15 @@
 }
 
 .bi bi-linkedin {
-    width: 200px;
-    height: 100px;
-    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 50%;
 }
 
 .headshot-center {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
@@ -125,36 +125,37 @@
 
 .Certs-Titles {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .skill-sets {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .About-Me {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .bi bi-github {
+    margin: 0 auto;
     display: flex;
-    justify-content: center;
+    width: 200px;
 }
 
 .Projects {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .Project_Title {
     width: 200px;
-    height: 100px;
+    margin: 0 auto;
     padding: 10px;
 }
 
