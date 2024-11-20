@@ -6,7 +6,6 @@
 .Name_Center{
     text-align: center;
     color: lightslategray;
-    margin-right: 60px;
     padding: 10px;
 }
 
@@ -16,7 +15,7 @@
     height: 100px;
     width: 100px;
     object-fit: cover;
-    margin-right: 60px;
+    margin-left: 50px;
 }
 
 /* Reset some basic styles */
@@ -97,9 +96,9 @@
 }
 
 .bi bi-linkedin {
-    text-align: center;
-    margin-left: 50px;
+    margin: 0 auto;
     padding: 10px;
+    width: 50px;
 }
 
 .headshot-center{
@@ -125,12 +124,12 @@
 }
 
 .Certs-Titles {
-   text-align: center;
+    margin-left: 70px;
     padding: 10px;
 }
 
 .skill-sets{
-    margin-left: 50px;
+    margin-left: 70px;
     padding: 10px;
 }
 
@@ -145,12 +144,13 @@
 }
 
 .Projects {
-    margin: 0 auto;
-    width: 50%;
-    font: 24px;
+    margin-left: 70px;
+    padding: 10px;
 }
 
-
-
+.Project_Title{
+    margin-left: 70px;
+    padding: 10px;
+}
 
 
