@@ -11,10 +11,11 @@
 
 
 .rounded {
-    margin: 0 auto;
     border-radius: 50%;
-    width: 50%;
+    height: 100px;
+    width: 100px;
     object-fit: cover;
+    margin-right: 60px;
 }
 
 /* Reset some basic styles */
