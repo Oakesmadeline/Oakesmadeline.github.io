@@ -15,7 +15,8 @@
     height: 100px;
     width: 100px;
     object-fit: cover;
-    margin-left: 50px;
+    margin: 0 auto;
+  
 }
 
 /* Reset some basic styles */
@@ -96,16 +97,15 @@
 }
 
 .bi bi-linkedin {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 200px;
 }
 
 .headshot-center {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 200px;
+    margin: 0 auto;
     padding: 10px;
 }
 
@@ -126,42 +126,35 @@
 }
 
 .Certs-Titles {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 200px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .skill-sets {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
     padding: 10px;
 }
 
 .About-Me {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .bi bi-github {
+    margin: 0 auto;
     display: flex;
-    justify-content: center;
+    width: 200px;
 }
 
 .Projects {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 200px;
+    margin: 0 auto;
     padding: 10px;
 }
 
 .Project_Title {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 200px;
+    margin: 0 auto;
     padding: 10px;
 }
 
