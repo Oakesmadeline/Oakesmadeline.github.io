@@ -96,14 +96,14 @@
 }
 
 .bi bi-linkedin {
-    margin: 0 auto;
+    width: 200px;
+    height: 100px;
     padding: 10px;
-    width: 50px;
 }
 
-.headshot-center{
-    text-align: center;
-    margin-left: 50px;
+.headshot-center {
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
@@ -124,17 +124,20 @@
 }
 
 .Certs-Titles {
-    margin-left: 70px;
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
-.skill-sets{
-    margin-left: 70px;
+.skill-sets {
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
-.About-Me{
-    margin-left: 50px;
+.About-Me {
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
@@ -144,12 +147,14 @@
 }
 
 .Projects {
-    margin-left: 70px;
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
-.Project_Title{
-    margin-left: 70px;
+.Project_Title {
+    width: 200px;
+    height: 100px;
     padding: 10px;
 }
 
