@@ -139,7 +139,7 @@
     padding: 10px;
 }
 
-.link_Projects {
+.bi bi-github {
     display: flex;
     justify-content: center;
 }
