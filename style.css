@@ -96,7 +96,7 @@
     }
 }
 
-.Linkdin-img {
+.bi bi-linkedin {
     text-align: center;
     margin-left: 50px;
     padding: 10px;
@@ -143,6 +143,14 @@
     display: flex;
     justify-content: center;
 }
+
+.Projects {
+    margin: 0 auto;
+    width: 50%;
+    font: 24px;
+}
+
+
 
 
 
