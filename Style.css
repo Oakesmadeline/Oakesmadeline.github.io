@@ -128,7 +128,7 @@
 }
 
 .skill-sets{
-    margin-left: 50px;
+    margin-left: 70px;
     padding: 10px;
 }
 
@@ -143,6 +143,11 @@
 }
 
 .Projects {
+    margin-left: 70px;
+    padding: 10px;
+}
+
+.Project_Title{
     margin-left: 70px;
     padding: 10px;
 }
