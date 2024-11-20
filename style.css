@@ -112,8 +112,8 @@
 .logo_WPF {
     margin: 0 auto;
     padding: 10px;
-    width: 600px;
-    height: 600px;
+    width: 800px;
+    height: 400px;
 }
 
 .Pics {
@@ -124,8 +124,9 @@
     display: block;
 }
 
-.Certs-Titles{
-    margin-left: 50px;
+.Certs-Titles {
+    margin: 0 auto;
+    width: 50px;
     padding: 10px;
 }
 
