@@ -125,8 +125,7 @@
 }
 
 .Certs-Titles {
-    margin: 0 auto;
-    width: 50px;
+   text-align: center;
     padding: 10px;
 }
 
@@ -140,9 +139,9 @@
     padding: 10px;
 }
 
-.link{
+.link_Projects {
     font-size: 20px;
-    margin-left: 50px;
+    text-align: center;
 }
 
 
