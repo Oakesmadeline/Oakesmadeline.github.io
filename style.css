@@ -126,19 +126,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    margin: 20px 0;
     width: 200px;
     height: 200px;
 }
 
 .Certs-Titles {
-    width: 0;
-    margin: 0 auto;
-    padding: 10px;
+    text-align: center;
 }
 
 .skill-sets {
-    padding: 10px;
+    text-align: center;
 }
 
 .About-Me {
