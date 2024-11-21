@@ -133,10 +133,11 @@
 
 .Certs-Titles {
     text-align: center;
+    white-space: nowrap;
 }
 
 .skill-sets {
-    padding: 10px;
+    text-align: center;
 }
 
 .About-Me {
