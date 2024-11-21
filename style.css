@@ -10,14 +10,19 @@
 }
 
 
-.icon-container-rounded {
+.rounded {
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
     object-fit: cover;
-    margin: 0 auto;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
 /* Reset some basic styles */
 * {
     margin: 0;
@@ -101,12 +106,6 @@
     align-items: center;
     margin: 20px 0;
     width: 200px;
-}
-
-.headshot-center {
-    width: 200px;
-    margin: 0 auto;
-    padding: 10px;
 }
 
 
