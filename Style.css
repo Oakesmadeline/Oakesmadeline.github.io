@@ -107,6 +107,12 @@
     margin: 20px 0;
 }
 
+.icon-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 .logo_WPF {
     margin: 0 auto;
