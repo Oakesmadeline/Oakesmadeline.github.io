@@ -132,14 +132,18 @@
     text-align: center;
     white-space: nowrap;
 }
-.column {
-    display: flex;
+.col {
+    flex: 1;
     flex-direction: column;
-    align-items: center;
+    min-width: 100px;
     text-align: center;
 }
+.w-100 {
+    width: 100%;
+    height: 1px;
+}
 
-.skill-sets {
+ .skill-sets {
     text-align: center;
 }
 
